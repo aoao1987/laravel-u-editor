@@ -36,7 +36,7 @@
               "Stevenyangecho\\UEditor\\UEditorServiceProvider"
           ],
           "aliases": {
-              "UEditor": "Stevenyangecho\UEditor\UEditorServiceProvider"
+              "UEditor": "Stevenyangecho\\UEditor\\UEditorServiceProvider"
           }
       }
   }
